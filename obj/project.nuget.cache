@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZsybzVKkf2KY1xQdhfKBojn/Hs8BcUOxzXis7YXtqfkMJRCE9HDBFOyBcUJ2J1ogekXQMNWaQXTZkQ1wg/atgw==",
+  "dgSpecHash": "4fngh2ykN9fyd/QoAZqNbEdO3aoe8iXo4qr1JbEg/ToFjtyq2PrlRSP5xCF9ou7+zRnQam5qZQgEflLvy13lkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\boblo\\OneDrive\\Bureau\\Nouveau dossier\\Calendrier\\MyCalendar\\MyCalendar.csproj",
+  "projectFilePath": "C:\\Users\\boblo\\OneDrive\\Bureau\\Nouveau dossier\\Caldendrier\\MyCalendar\\MyCalendar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\boblo\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\boblo\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
